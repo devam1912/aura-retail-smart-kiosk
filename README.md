@@ -41,7 +41,3 @@ The system handles:
    ```bash
    python app.py
    ```
-
-## 📸 Simulation Preview
-*(Add a preview image of your project here if needed, `working_simulation.png` is available in the repository)*
-![Working Simulation](working_simulation.png)
